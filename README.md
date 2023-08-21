@@ -1,4 +1,4 @@
-# Sprocket Central Customer Sales Analysis
+# Sprocket Central Customer Bike Sales Analysis
 
 ![](intro-bike-page.jpeg)
 
