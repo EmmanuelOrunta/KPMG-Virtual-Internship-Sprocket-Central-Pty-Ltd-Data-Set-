@@ -31,5 +31,21 @@ Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction
 ## Data Analysis Process
 Task 1 - For this task, I carried out a data quality assessment on the dataset provided by Sprocket Central Limited, noting any data quality issues discovered within the dataset using the data quality scheme provided. The dimensions of data quality that would be considered while assessing a dataset are listed below.
 
-![](intro-bike-page.jpeg)
+![](data-quality-assessment.png)
+
+According to my email message, the following data quality issues were detected in the dataset after a thorough review.
+![](address.png)
+![](demographic.png)
+![](transactions.png)
+
+Task 2 - To complete the second work, I was required to develop a PowerPoint presentation outlining the strategy to be used. The client has agreed to a three-week scope, with three phases: data exploration, model development, and interpretation. The main goal of this research is to "recommend which of these 1000 new customers should be targeted to drive the most value for the organization using the existing three datasets (customer demographic, customer address, and transactions) as a labeled dataset."
+
+
+These are some of the powerpoint slides for the three phases
+![](address.png)
+![](demographic.png)
+![](transactions.png)
+
+
+
 
