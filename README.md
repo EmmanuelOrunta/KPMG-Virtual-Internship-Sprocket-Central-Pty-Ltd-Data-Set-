@@ -29,7 +29,8 @@ Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction
 
 
 ## Data Analysis Process
-Task 1 - For this task, I carried out a data quality assessment on the dataset provided by Sprocket Central Limited, noting any data quality issues discovered within the dataset using the data quality scheme provided. The dimensions of data quality that would be considered while assessing a dataset are listed below.
+### Task 1
+For this task, I carried out a data quality assessment on the dataset provided by Sprocket Central Limited, noting any data quality issues discovered within the dataset using the data quality scheme provided. The dimensions of data quality that would be considered while assessing a dataset are listed below.
 
 ![](data-quality-assessment.png)
 
@@ -38,7 +39,9 @@ According to my email message, the following data quality issues were detected i
 ![](demographic.png)
 ![](transactions.png)
 
-Task 2 - To complete the second work, I was required to develop a PowerPoint presentation outlining the strategy to be used. The client has agreed to a three-week scope, with three phases: data exploration, model development, and interpretation. The main goal of this research is to "recommend which of these 1000 new customers should be targeted to drive the most value for the organization using the existing three datasets (customer demographic, customer address, and transactions) as a labeled dataset."
+
+### Task 2
+To complete the second work, I was required to develop a PowerPoint presentation outlining the strategy to be used. The client has agreed to a three-week scope, with three phases: data exploration, model development, and interpretation. The main goal of this research is to "recommend which of these 1000 new customers should be targeted to drive the most value for the organization using the existing three datasets (customer demographic, customer address, and transactions) as a labeled dataset."
 
 
 These are some of the powerpoint slides for the three phases
@@ -49,6 +52,17 @@ These are some of the powerpoint slides for the three phases
 ![](powerpoint-5.png)
 ![](powerpoint-6.png)
 ![](powerpoint-7.png)
+
+
+### Task 3 
+During this phase, I created a visualization from the merged dataset and new customer list into a visual context that would help me explain my findings.
+This dashboard was produced with Microsoft PowerBI and can be found below.
+
+![](Dashboard_1.png)
+![](Dashboard_2.png)
+![](Dashboard_3.png)
+
+
 
 
 
