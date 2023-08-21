@@ -56,14 +56,27 @@ These are some of the powerpoint slides for the three phases
 
 ### Task 3 
 During this phase, I created a visualization from the merged dataset and new customer list into a visual context that would help me explain my findings.
-This dashboard was produced with Microsoft PowerBI and can be found below.
+This dashboard comprises of 3 pages and was produced with Microsoft PowerBI and can be found below.
 
 ![](Dashboard_1.png)
 ![](Dashboard_2.png)
 ![](Dashboard_3.png)
 
 
+## Insights or Findings
+- There is a positive correlation between the bike related purchases and the profit generated when compared with different variables.
+- There isn't any much gender disparity especially in relation to profit, or customers with the females just edging out the males in a slight percentage.
+- Customers from the Adult age bracket (25-50) made the most purchases and made the most profit. Customers residing in New South Wales tend to be the most high valued customers in the country.
+- Mass Customers also have the highest profit net from the other wealth segment customers.
+- Medium sized and medium class products are the most sold products
+- Solex and WeareA2B are the most profitable and most in demands brands. Standard product line are also the most profitable product line.
+- Customers from the manufacturing, health and financial industry produces the highest profits.
 
+## Recommendation 
+- New customers from New South Wales under the Adult and Old age bracket who are mass customers should be prioritized/focused in the next marketing strategy.
+- Brands such as Solex and WeareA2B should be marketed more with the medium sized and medium class products should be in huge supply
+- The standard product line should also be in huge supply for profit growth
+- More discounts can be provided to lower rated brands like Nirco Bicycles and OHM cycles to increase market growth.
 
 
 
