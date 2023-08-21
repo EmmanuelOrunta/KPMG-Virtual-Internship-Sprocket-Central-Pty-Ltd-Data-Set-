@@ -42,9 +42,14 @@ Task 2 - To complete the second work, I was required to develop a PowerPoint pre
 
 
 These are some of the powerpoint slides for the three phases
-![](address.png)
-![](demographic.png)
-![](transactions.png)
+![](powerpoint-1.png)
+![](powerpoint-2.png)
+![](powerpoint-3.png)
+![](powerpoint-4.png)
+![](powerpoint-5.png)
+![](powerpoint-6.png)
+![](powerpoint-7.png)
+
 
 
 
